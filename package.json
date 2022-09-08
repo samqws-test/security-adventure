@@ -12,7 +12,7 @@
     "optimist": "0.6.0",
     "xtend": "2.1.1",
     "terminal-menu": "0.1.0",
-    "levelup": "0.16.0",
+    "levelup": "0.19.1",
     "leveldown": "0.8.2",
     "memdown": "0.3.0",
     "request": "2.27.0",
