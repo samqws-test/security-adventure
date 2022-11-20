@@ -15,7 +15,7 @@
     "levelup": "0.16.0",
     "leveldown": "0.8.2",
     "memdown": "0.3.0",
-    "request": "2.27.0",
+    "request": "2.66.0",
     "fibers": "1.0.1",
     "phantom-wd-runner": "0.0.2",
     "wd": "0.1.4",
