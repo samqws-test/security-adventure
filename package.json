@@ -18,7 +18,7 @@
     "request": "2.27.0",
     "fibers": "1.0.1",
     "phantom-wd-runner": "0.0.2",
-    "wd": "0.1.4",
+    "wd": "1.0.0",
     "cheerio": "0.12.2",
     "tap-prettify": "0.0.2"
   },
